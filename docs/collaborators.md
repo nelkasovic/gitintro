@@ -1,6 +1,6 @@
 # Kollaboratoren einladen
 
-Um gemeinsam mit anderne Entwicklern an einem Projekt zu arbeiten, können für jedes Repository weitere GitHub Nutzer als sogenannte Collaborators eingeladen werden. Der Nutzer, den Sie einladen, erhält eine E-Mail, in dieser zum Repository eingeladen wird. Sobald die Einladung angenommen wird, hat der Nutzer Zugriff auf Ihr Repository.
+Um gemeinsam an einem Repository zu arbeiten, können weitere GitHub Nutzer als **Kollaboratoren** eingeladen werden. Die Einladung wird via E-Mail versendet. Sobald der Empfänger die Einladung angenommen hat, hat der er Zugriff auf das Repository.
 
 ![Git-Workflow](./assets/images/git_collaborators.png)
 
