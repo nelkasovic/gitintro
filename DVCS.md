@@ -1,5 +1,6 @@
-# Verteilte Versionskontrolle
-## Distributed Version Control System
+# Distributed Version Control System
+
+## Verteilte Versionskontrolle
 
 Git verwaltet **Versionen** unserer Dateien. Versionen beschreiben den Inhalt einer Datei zu einem bestimmten Zeitpunkt. Bei jeder Änderung erstellt Git immer eine neue Version der Datei. Damit besitzt jede Datei mindestens eine Version.
 
