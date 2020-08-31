@@ -1,39 +1,11 @@
-## Welcome to GitHub Pages
+# Was ist git?
 
-### [__Weiter](Start.md)
+Git ist **verteiltes Versionskontrollsystemaktiv (DVCS)**. Ein Open-Source-Projekt, das 2005 ursprünglich von Linus Torvalds, dem berühmten Entwickler des Linux Betriebssystem-Kernel, entwickelt wurde. 
 
-You can use the [editor on GitHub](https://github.com/nelkasovic/gitintro/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Durch Git wird ein **Arbeitsverzeichnis zu einem Repository**, welches den vollständigen Verlauf aller Änderungen enthält. Das ermöglicht uns digitale **Zeitreisen** durch die bisherigen Änderungen. Zu einem beliebeigen Zeitpunkt zurückspringen und den **Stand von damals wiederherstellen** ist ein Kinderspiel.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Abgesehen davon können **beliebig viele Entwickler an einem Repository** gemeinsam arbeiten und Ihre Änderungen verfolgen, vorschlagen, zusammenführen oder rückgängig machen.
 
-### Markdown
+![Git-Workflow](assets/images/git_workflow_repos.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nelkasovic/gitintro/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### [__Weiter](DVCS.md)
