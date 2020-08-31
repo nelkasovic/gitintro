@@ -23,4 +23,4 @@ git remote add origin git@github.com:nelkasovic/gitintro.git
 Bitte beachte, dass bei git remote add origin der Name des eigenen Repository stehen muss.
 
 
-### [__Weiter](ReadmeErstellen.md)
+### [Weiter](ReadmeErstellen.md)

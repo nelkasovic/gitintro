@@ -19,4 +19,4 @@ git diff
 ```
 
 
-### [__Weiter](Revert.md)
+### [Weiter](Revert.md)

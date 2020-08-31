@@ -12,4 +12,4 @@ git pull
 git fetch
 ```
 
-### [__Weiter](Merge.md)
+### [Weiter](Merge.md)

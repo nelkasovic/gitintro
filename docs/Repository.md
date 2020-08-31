@@ -11,4 +11,4 @@ Verwende GitHub um dein Repository mit anderen zu teilen. Ein Konto kann auf htt
 ![GitHub create account](./assets/images/github_create_account.png)
 
 
-### [__Weiter](Installation.md)
+### [Weiter](Installation.md)

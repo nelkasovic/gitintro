@@ -52,4 +52,4 @@ git push -f
 ```
 
 
-### [__Weiter](README.md)
+### [Weiter](README.md)
