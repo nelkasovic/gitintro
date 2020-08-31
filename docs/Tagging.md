@@ -14,6 +14,6 @@ git log
 
 Du kannst auch weniger Zeichen verwenden, es muss einfach eindeutig sein.
 
-![Git-Workflow](assets/images/git_releases.png)
+![Git-Workflow](../assets/images/git_releases.png)
 
 ### [__Weiter](Collaborators.md)
