@@ -1,6 +1,6 @@
 # Bestehendes Repository verwenden
 
-Erstelle eine Arbeitskopie von einem bestehenden entfernten Repository, indem du folgenden Befehl ausführst:
+Eine Arbeitskopie von einem entfernten Repository kannst du erstellen mit:
 
 ```
 git clone git@github.com:nelkasovic/gitintro.git

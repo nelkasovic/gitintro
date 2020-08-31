@@ -1,25 +1,23 @@
 # Änderungen hinzufügen
 
-Sobald das Repository initialisiert und verknüpft ist, kannst du deine Änderungen vorschlagen (zum Index hinzufügen).
-
-Einzelne Änderungen/Dateien mit:
+Einzelne Dateien zum INDEX hinzufügen:
 
 ```
 git add README.md
 ```
 
-Alle Änderungen/Dateien mit:
+Alle Änderungen/Dateien INDEX hinzufügen:
 
 ```
 git add *
 ```
 
-Der nächste Schritt im git workflow ist die Änderungen zu bestätigen mit:
+Änderungen bestätigen:
 
 ```
 git commit -m "README Datei hinzugefügt"
 ```
 
-Danach befindet sich die Änderung im HEAD, aber noch nicht im entfernten Repository.
+Jetzt befindet sich die Änderung im HEAD, aber noch nicht im entfernten Repository.
 
 ### [Weiter](push.md)

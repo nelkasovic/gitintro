@@ -1,19 +1,21 @@
 # Änderungen hochladen
-Die Änderungen sind jetzt im HEAD deines lokalen Repositories. Um die Änderungen an dein entferntes Repository zu senden, führe aus:
+Änderungen das erste Mal an dein entferntes Repository senden:
 
 ```
 git push -u origin master
 ```
 
-Du kannst master auch mit einem beliebigen anderen Branch ersetzen, mehr über Branches erfährst du später. Danach kannst du den Parameter -u weglassen. Verwende zukünftig nur noch:
+Änderungen zukünftig an dein entferntes Repository senden:
 
 ```
 git push origin master
 ```
 
+Du kannst `master` auch mit einem beliebigen anderen Branch ersetzen, mehr über Branches erfährst du später. 
+
 #### Sonderfall
 
-Wenn du dein lokales Repository nicht von einem entfernten geklont hast und du diese aber mit einem anderen Repository verbinden möchtest, musst du dieses mit hinzufügen:
+Dein lokales, nicht geklontes, Repository mit einem anderen Repository verbinden kannst du mit:
 
 ```
 git remote add origin <server>
