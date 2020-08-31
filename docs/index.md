@@ -6,6 +6,6 @@ Durch Git wird ein **Arbeitsverzeichnis zu einem Repository**, welches den volls
 
 Abgesehen davon können **beliebig viele Entwickler an einem Repository** gemeinsam arbeiten und Ihre Änderungen verfolgen, vorschlagen, zusammenführen oder rückgängig machen.
 
-![Git-Workflow](../assets/images/git_workflow_repos.png)
+![Git-Workflow](./assets/images/git_workflow_repos.png)
 
 ### [__Weiter](DVCS.md)
