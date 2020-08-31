@@ -9,4 +9,4 @@ Mit Git kannst du entweder:
 
 Unabhängig davon welchen Weg du einschlägst, es stehen dir die gleichen Befehle zur Verfügung.
 
-### [Weiter](NeuesRepository.md)
+### [Weiter](init.md)

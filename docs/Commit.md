@@ -22,4 +22,4 @@ git commit -m "README Datei hinzugefügt"
 
 Danach befindet sich die Änderung im HEAD, aber noch nicht im entfernten Repository.
 
-### [Weiter](Push.md)
+### [Weiter](push.md)

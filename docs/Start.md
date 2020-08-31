@@ -8,4 +8,4 @@ Abgesehen davon können **beliebig viele Entwickler an einem Repository** gemein
 
 ![Git-Workflow](./assets/images/git_workflow_repos.png)
 
-### [Weiter](DVCS.md)
+### [Weiter](dvcs.md)

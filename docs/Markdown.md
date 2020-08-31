@@ -6,4 +6,4 @@ Markdown ist eine Auszeichnungssprache, genau wie HTML nur einfacher. Ein simple
 -   [Mastering Markdown (online Version)](https://guides.github.com/features/mastering-markdown/)
 
 
-### [Weiter](Tipps.md)
+### [Weiter](tipps.md)
