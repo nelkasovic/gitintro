@@ -6,7 +6,7 @@ Um in einem lokalen **Arbeitsverzeichnis** auf deinem Computer ein **Git-Reposit
 git init
 ```
 
-Alle Änderungen innerhalb dieser Verzeichnisstruktur werden nun verfolgt. Alle Dateien werden versioniert abgespeichert. Wenn du nun das Repository mit anderen teilen möchtest und es zentral "in der Cloud" haben möchtest, kannst du bei z.B. GitHub ein Repository erstellen und das lokale Repository mit dem bei GitHub verknüpfen.
+Alle Änderungen in diesem Verzeichnis werden verfolgt und Dateien versioniert. Wenn du das Repository mit anderen teilen willst, kannst du bei z.B. GitHub ein Repository erstellen und das lokale Repository mit dem bei GitHub verknüpfen.
 
 -   Bei github.com anmelden (früher eröffnetes Konto vorausgesetzt)
 -   Zu https://github.com/new wechseln
@@ -14,13 +14,13 @@ Alle Änderungen innerhalb dieser Verzeichnisstruktur werden nun verfolgt. Alle 
 -   Bei «Private» oder «Public» wählen (Privat heisst, nur für dich sichtbar)
 -   Mit «Create Repository» bestätigen
 
-Danach kann das lokale Repository mit dem GitHub Repository wie folgt verknüpft werden:
+Danach kann das lokale Repository mit dem GitHub Repository verknüpft werden mit:
 
 ```
 git remote add origin git@github.com:nelkasovic/gitintro.git
 ```
 
-Bitte beachte, dass bei git remote add origin der Name des eigenen Repository stehen muss.
+Nach `git remote add origin` muss der Name des eigenen Repository stehen.
 
 
 ### [Weiter](echo.md)
