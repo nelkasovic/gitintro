@@ -11,11 +11,11 @@ git push -u origin master
 git push origin master
 ```
 
-Du kannst `master` auch mit einem beliebigen anderen Branch ersetzen, mehr über Branches erfährst du später. 
+Den Branch `master` kannst du mit einem beliebigen anderen Branch ersetzen. Mehr über Branches später. 
 
 #### Sonderfall
 
-Dein lokales, nicht geklontes, Repository mit einem anderen Repository verbinden kannst du mit:
+Dein lokales, **nicht geklontes**, Repository mit einem anderen Repository verbinden kannst du mit:
 
 ```
 git remote add origin <server>

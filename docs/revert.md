@@ -1,14 +1,12 @@
 # Änderungen rückgängig machen
 
-Falls du mal etwas falsch machst, kannst du die lokalen Änderungen auf den letzten Stand im HEAD zurücksetzen mit:
+Lokale Änderungen auf den **letzten Stand im HEAD** zurücksetzen kannst du mit:
 
 ```
 git checkout -- <filename>
 ```
 
-Änderungen, die du bereits zum Index hinzugefügt hast, bleiben bestehen.
-
-Wenn du aber deine lokalen Änderungen komplett entfernen möchtest, holst du dir den letzten Stand vom entfernten Repository mit folgenden Befehlen:
+Änderungen, die du bereits zum Index hinzugefügt hast, bleiben bestehen. Wenn du deine **lokalen Änderungen komplett entfernen** möchtest, kannst du den letzten Stand vom entfernten Repository holen mit:
 
 ```
 git fetch origin

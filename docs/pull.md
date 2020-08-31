@@ -1,12 +1,12 @@
 # Updates holen
 
-Um dein lokales Repository mit den neuesten Änderungen zu aktualisieren, verwende in deiner Arbeitskopie den folgenden Befehl:
+Deine Arbeitskopie mit neuesten Änderungen **direkt aktualisieren** kannst du mit:
 
 ```
 git pull
 ```
 
-Änderungen zuerst herunterladen kannst du mit:
+Änderungen zuerst ins Repository **herunterladen** kannst du mit:
 
 ```
 git fetch
