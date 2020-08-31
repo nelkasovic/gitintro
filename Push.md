@@ -22,4 +22,4 @@ git remote add origin <server>
 Danach bist du bereit, deine Änderungen hochzuladen.
 
 
-# [Weiter](Pull.md)
+### [__Weiter](Pull.md)

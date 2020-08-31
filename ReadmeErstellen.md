@@ -11,4 +11,4 @@ echo "# Mein GitHub Repository" >> README.md
 Alternativ kannst du diese Datei auch in einem Editor erstellen.
 
 
-# [Weiter](Clone.md)
+### [__Weiter](Clone.md)

@@ -15,4 +15,4 @@ git fetch origin
 git reset --hard origin/master
 ```
 
-# [Weiter](Branches.md)
+### [__Weiter](Branches.md)

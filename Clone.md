@@ -13,4 +13,4 @@ git clone /pfad/zum/repository
 git clone benutzername@host:/pfad/zum/repository
 ```
 
-# [Weiter](Commit.md)
+### [__Weiter](Commit.md)

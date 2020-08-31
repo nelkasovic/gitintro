@@ -27,6 +27,4 @@ Ein Branch ist nicht für andere verfügbar, bis du diesen in dein entferntes Re
 ```
 git push origin <branch>
 ```
-
-
-# [Weiter](Tagging.md)
+### [__Weiter](Tagging.md)

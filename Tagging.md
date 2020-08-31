@@ -16,4 +16,4 @@ Du kannst auch weniger Zeichen verwenden, es muss einfach eindeutig sein.
 
 ![Git-Workflow](assets/images/git_releases.png)
 
-# [Weiter](Collaborators.md)
+### [__Weiter](Collaborators.md)

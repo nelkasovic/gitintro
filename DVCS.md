@@ -14,4 +14,4 @@ Der Mechanismus, den Git verwendet, um diese Prüfsummen zu erstellen, heisst SH
 *Diese Hashes begegnen einem überall bei der Arbeit, weil sie so ausgiebig von Git genutzt werden. Tatsächlich speichert Git alles in seiner Datenbank nicht nach Dateinamen, sondern nach dem Hash-Wert seines Inhalts.*
 
 
-# [Weiter](Repository.md)
+### [__Weiter](Repository.md)

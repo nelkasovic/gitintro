@@ -5,4 +5,4 @@ Um gemeinsam mit anderne Entwicklern an einem Projekt zu arbeiten, können für 
 ![Git-Workflow](assets/images/git_collaborators.png)
 
 
-# [Weiter](Markdown.md)
+### [__Weiter](Markdown.md)
