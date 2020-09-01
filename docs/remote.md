@@ -28,9 +28,9 @@ Nach `git remote add origin` muss der Name des eigenen Repository stehen.
 
 
 ## Zu erledigen
-- [ ] GitHub Account eröffnen
-- [ ] Remote Repository erstellen
-- [ ] Lokales Repository mit Remote verknüpfen
+- [ ]&nbsp;&nbsp;GitHub Account eröffnen
+- [ ]&nbsp;&nbsp;Remote Repository erstellen
+- [ ]&nbsp;&nbsp;Lokales Repository mit Remote verknüpfen
 
 
 ### [Startseite](index.md) // [Zurück](init.md) // [Weiter](echo.md)

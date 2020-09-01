@@ -13,6 +13,6 @@ git fetch
 ```
 
 ## Zu erledigen
-- [ ] Änderungen aktualisiert von Remote zu Lokal mit `git pull`
+- [ ]&nbsp;&nbsp;Änderungen aktualisiert von Remote zu Lokal mit `git pull`
 
 ### [Startseite](index.md) // [Zurück](clone.md) // [Weiter](merge.md)
