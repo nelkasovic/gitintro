@@ -1,5 +1,6 @@
 theme: jekyll-theme-cayman
 layout: page
 title: Git Grundlagen
+show_downloads: true
 tagline: Grundprinzipien von Git und wie man damit effizient arbeiten kann
 description: Hier erfährst Du wie Git funktioniert und wie Du mit Git arbeiten kannst.
