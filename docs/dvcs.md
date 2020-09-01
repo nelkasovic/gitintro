@@ -1,6 +1,10 @@
 # Distributed Version Control System
 
-Git verwaltet **Versionen** unserer Dateien. Versionen beschreiben den Inhalt einer Datei zu einem bestimmten Zeitpunkt. Bei jeder Änderung erstellt Git immer eine neue Version der Datei. Damit besitzt jede Datei mindestens eine Version.
+Git ist ein **verteiltes Kontrollsystem für Versionen**. Jede lokale Arbeitskopie ist zugleich ein Repository mit allen Versionen. **Versionen** beschreiben den Inhalt einer Datei zu einem bestimmten Zeitpunkt. 
+
+Eine der Hauptaufgaben von Git ist es, **bei jeder Änderung eine neue Version** der Datei zu erstellen. Damit besitzt jede Datei mindestens eine Version.
+
+Abgesehen davon, unterstützt Git uns die gemachten Änderungen und Versionen ins **entfernte Repository** (auf z.B. GitHub) verlustfrei [hochzuladen](push.md). Konflikte versucht Git automatisch aufzulösen. 
 
 ---
 
