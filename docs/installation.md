@@ -9,6 +9,6 @@ Um git-Befehle nutzen zu können, muss eine Software **installiert** werden. Sch
 Nach der Installation sollte der Befehl git in einem cmd/Terminal Fenster funktionieren. Öffne dazu ein CMD/Terminal Fenster und gebe `git` ein.
 
 ## Zu erledigen
-- [ ] Git Software installieren
+- Git Software installieren
 
 ### [Startseite](index.md) // [Zurück](repository.md) // [Weiter](git.md)
