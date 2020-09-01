@@ -4,7 +4,8 @@ Eine der Hauptaufgaben von Git ist es, **bei jeder Änderung eine neue Version**
 
 ---
 
-![Git-Workflow](./assets/images/git_workflow_repos.png)
+
+[![Git-Workflow](./assets/images/git_workflow_repos.png)](./assets/images/git_workflow_repos.png)
 
 ---
 
