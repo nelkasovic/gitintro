@@ -1,8 +1,6 @@
 # Distributed Version Control System
 
-Eine der Hauptaufgaben von Git ist es, **bei jeder Änderung eine neue Version** der geänderten Datei zu erstellen. Damit besitzt jede Datei mindestens eine Version. **Versionen** beschreiben den Inhalt einer Datei zu einem bestimmten Zeitpunkt. 
-
-Abgesehen davon, unterstützt Git uns die Änderungen ins **entfernte Repository** (auf z.B. GitHub) verlustfrei [hochzuladen](push.md). Konflikte versucht Git automatisch aufzulösen. 
+Eine der Hauptaufgaben von Git ist es, **bei jeder Änderung eine neue Version** der geänderten Datei zu erstellen. Damit besitzt jede Datei mindestens eine Version. **Versionen** beschreiben den Inhalt einer Datei zu einem bestimmten Zeitpunkt. Beim Hochladen ins **entfernte Repository** (auf z.B. GitHub), unterstützt Git uns dies verlustfrei durchzuführen und versucht alle Konflikte automatisch aufzulösen. 
 
 ---
 
