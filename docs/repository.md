@@ -6,7 +6,7 @@ Ein lokales Repository besteht aus drei &laquo;**Instanzen**&raquo;, die von git
 
 ## Entferntes Repository
 
-Verwende GitHub um dein Repository mit anderen zu teilen. Ein Konto kann auf https://github.com eröffnet werden. Für die Registrierung wird eine gültige E-Mail Adresse benötigt auf welche du in diesem Moment zugreifen kannst.
+Um dein Repository mit anderen zu teilen, kannst du [GitHub](https://github.com) verwenden. Eröffne dort ein Konto mit einer gültigen E-Mail Adresse. Bis auf ein paar wenige Einschränkungen, die für 
 
 ![GitHub create account](./assets/images/github_create_account.png)
 

@@ -6,4 +6,4 @@ Ein Repository hat oft eine **README-Datei**. Sie umfasst wichtige Angaben zum R
 echo "# Mein GitHub Repository" >> README.md
 ```
 
-### [Startseite](start.md) // [Weiter](clone.md)
+### [Startseite](start.md) // [Weiter](commit.md)
