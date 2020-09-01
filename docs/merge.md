@@ -19,4 +19,4 @@ git diff
 ```
 
 
-### [Startseite](start.md) // [Weiter](revert.md)
+### [Startseite](start.md) // [Zurück](pull.md) // [Weiter](revert.md)

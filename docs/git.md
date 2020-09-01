@@ -6,4 +6,4 @@ Mit Git kannst du entweder ein **[neues Repository](init.md)** initialisieren od
 
 Unabhängig davon, ob neu oder bestehend, es stehen dir die gleichen git-Befehle zur Verfügung.
 
-### [Startseite](start.md) // [Weiter](init.md)
+### [Startseite](start.md) // [Zurück](installation.md) // [Weiter](init.md)

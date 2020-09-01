@@ -29,4 +29,4 @@ Nach `git remote add origin` muss der Name des eigenen Repository stehen.
 
 
 
-### [Startseite](start.md) // [Weiter](echo.md)
+### [Startseite](start.md) // [Zurück](init.md) // [Weiter](echo.md)

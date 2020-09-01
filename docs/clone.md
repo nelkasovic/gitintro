@@ -13,4 +13,4 @@ git clone /pfad/zum/repository
 git clone benutzername@host:/pfad/zum/repository
 ```
 
-### [Startseite](start.md) // [Weiter](pull.md)
+### [Startseite](start.md) // [Zurück](push.md) // [Weiter](pull.md)
