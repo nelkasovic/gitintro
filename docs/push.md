@@ -13,7 +13,7 @@ git push origin master
 
 Den Branch `master` kannst du mit einem beliebigen anderen Branch ersetzen. Mehr über Branches später. 
 
-#### Sonderfall
+## Sonderfall
 
 Dein lokales, **nicht geklontes**, Repository mit einem anderen Repository verbinden kannst du mit:
 
