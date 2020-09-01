@@ -13,4 +13,4 @@ git fetch origin
 git reset --hard origin/master
 ```
 
-### [Weiter](branches.md)
+### [Startseite](start.md) // [Weiter](branches.md)

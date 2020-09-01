@@ -23,4 +23,4 @@ git remote add origin git@github.com:nelkasovic/gitintro.git
 Nach `git remote add origin` muss der Name des eigenen Repository stehen.
 
 
-### [Weiter](echo.md)
+### [Startseite](start.md) // [Weiter](echo.md)

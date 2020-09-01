@@ -30,4 +30,4 @@ git push origin <branch>
 
 Ein neuer Branch ist für andere erst dann verfügbar, wenn du diesen hochgeladen hast.
 
-### [Weiter](tagging.md)
+### [Startseite](start.md) // [Weiter](tagging.md)

@@ -12,4 +12,4 @@ git pull
 git fetch
 ```
 
-### [Weiter](merge.md)
+### [Startseite](start.md) // [Weiter](merge.md)

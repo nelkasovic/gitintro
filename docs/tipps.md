@@ -52,4 +52,4 @@ git push -f
 ```
 
 
-### [Weiter](index.md)
+### [Startseite](start.md) // [Weiter](index.md)
