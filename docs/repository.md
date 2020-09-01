@@ -5,4 +5,4 @@ Ein lokales Repository besteht aus drei &laquo;**Instanzen**&raquo;, die von git
 ![Git-Workflow simplified](./assets/images/git_workflow_simple_remote.png)
 
 
-### [Startseite](start.md) // [Zurück](dvcs.md) // [Weiter](installation.md)
+### [Startseite](index.md) // [Zurück](dvcs.md) // [Weiter](installation.md)

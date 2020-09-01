@@ -6,4 +6,4 @@ Durch Git wird ein **Arbeitsverzeichnis zu einem Repository**, welches den volls
 
 Abgesehen davon, können **beliebig viele Entwickler an einem Repository** gemeinsam arbeiten und Ihre Änderungen verfolgen, vorschlagen, zusammenführen oder rückgängig machen.
 
-### [Zurück](start.md) // [Weiter](dvcs.md)
+### [Weiter](dvcs.md)

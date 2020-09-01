@@ -5,4 +5,4 @@ Um gemeinsam an einem Repository zu arbeiten, können weitere GitHub Nutzer als 
 ![Git-Workflow](./assets/images/git_collaborators.png)
 
 
-### [Startseite](start.md) // [Zurück](tagging.md) // [Weiter](markdown.md)
+### [Startseite](index.md) // [Zurück](tagging.md) // [Weiter](markdown.md)

@@ -12,4 +12,4 @@ git pull
 git fetch
 ```
 
-### [Startseite](start.md) // [Zurück](clone.md) // [Weiter](merge.md)
+### [Startseite](index.md) // [Zurück](clone.md) // [Weiter](merge.md)

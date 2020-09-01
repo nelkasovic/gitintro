@@ -16,4 +16,4 @@ echo "# Meine erste andere Datei..." >> NERMIN.md
 
 In jedem Fall muss die gemachte **Änderung zum Index** hinzugefügt werden, um abschliessend ins entfernte Repository hochgeladen zu werden. Wie das funktioniert erfährst du gleich.
 
-### [Startseite](start.md) // [Zurück](remote.md) // [Weiter](commit.md)
+### [Startseite](index.md) // [Zurück](remote.md) // [Weiter](commit.md)

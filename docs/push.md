@@ -24,4 +24,4 @@ git remote add origin <server>
 Danach bist du bereit, deine Änderungen hochzuladen.
 
 
-### [Startseite](start.md) // [Zurück](commit.md) // [Weiter](clone.md)
+### [Startseite](index.md) // [Zurück](commit.md) // [Weiter](clone.md)
