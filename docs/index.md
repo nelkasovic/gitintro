@@ -1,6 +1,6 @@
 # Was ist git?
 
-Git ist **verteiltes Versionskontrollsystemaktiv (DVCS)**. Ein Open-Source-Projekt, das 2005 ursprünglich von Linus Torvalds, dem berühmten Entwickler des Linux Betriebssystem-Kernel, entwickelt wurde. 
+Git ist **verteiltes Versionskontrollsystem (DVCS)**. Ein Open-Source-Projekt, das 2005 ursprünglich von Linus Torvalds, dem berühmten Entwickler des Linux Betriebssystem-Kernel, entwickelt wurde. 
 
 Durch Git wird ein **Arbeitsverzeichnis zu einem Repository**, welches den vollständigen Verlauf aller Änderungen enthält. Das ermöglicht uns digitale **Zeitreisen** durch die bisherigen Änderungen. Zu einem beliebeigen Zeitpunkt zurückspringen und den **Stand von damals wiederherstellen** ist ein Kinderspiel.
 
