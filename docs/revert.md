@@ -14,6 +14,6 @@ git reset --hard origin/master
 ```
 
 ## Zu erledigen
-- [ ]&nbsp;&nbsp;Änderungen rückgängig gemacht mit `git checkout`
+- [ ] Änderungen rückgängig gemacht mit `git checkout`
 
 ### [Startseite](index.md) // [Zurück](merge.md) // [Weiter](branches.md)

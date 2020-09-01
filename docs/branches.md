@@ -31,10 +31,10 @@ git push origin <branch>
 Ein neuer Branch ist für andere erst dann verfügbar, wenn du diesen hochgeladen hast.
 
 ## Zu erledigen
-- [ ]&nbsp;&nbsp;Neuen Branch erstellen mit `git branch`
-- [ ]&nbsp;&nbsp;Neuen Branch veröffentlichen mit `git push origin`
-- [ ]&nbsp;&nbsp;Zu master-Branch zurück wechseln mit `git checkout`
-- [ ]&nbsp;&nbsp;Neu erstellten Branch löschen mit `git branch`
+- [ ] Neuen Branch erstellen mit `git branch`
+- [ ] Neuen Branch veröffentlichen mit `git push origin`
+- [ ] Zu master-Branch zurück wechseln mit `git checkout`
+- [ ] Neu erstellten Branch löschen mit `git branch`
 
 
 ### [Startseite](index.md) // [Zurück](revert.md) // [Weiter](tagging.md)
