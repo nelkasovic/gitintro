@@ -5,7 +5,7 @@ Um gemeinsam an einem Repository zu arbeiten, können weitere GitHub Nutzer als 
 [![Git-Workflow](./assets/images/git_collaborators.png)](./assets/images/git_collaborators.png)
 
 ## Zu erledigen
-- Kollaboratoren eingeladen
-- Selbst eine Einladung als Kollaborator akzeptiert
+- Kollaboratoren einladen
+- Selbst eine Einladung als Kollaborator erhalten und akzeptieren
   
 ### [Startseite](index.md) // [Zurück](tagging.md) // [Weiter](markdown.md)
