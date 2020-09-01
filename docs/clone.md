@@ -13,4 +13,7 @@ git clone /pfad/zum/repository
 git clone benutzername@host:/pfad/zum/repository
 ```
 
+## Zu erledigen
+- [ ] Entferntes Repository geklont mit `git clone`
+
 ### [Startseite](index.md) // [Zurück](push.md) // [Weiter](pull.md)

@@ -16,4 +16,8 @@ Hier steht **1b2e1d63ff** für die ersten 10 Zeichen der Commit-Id, die du mit d
 
 ![Git-Workflow](./assets/images/git_releases.png)
 
+## Zu erledigen
+- [ ] Tag hinzufügen mit `git tag`
+- [ ] Commit-IDs abgerufen mit `git log`
+
 ### [Startseite](index.md) // [Zurück](branches.md) // [Weiter](collaborators.md)

@@ -27,6 +27,10 @@ git remote add origin git@github.com:nelkasovic/gitintro.git
 Nach `git remote add origin` muss der Name des eigenen Repository stehen.
 
 
+## Zu erledigen
+- [ ] GitHub Account eröffnen
+- [ ] Remote Repository erstellen
+- [ ] Lokales Repository mit Remote verknüpfen
 
 
 ### [Startseite](index.md) // [Zurück](init.md) // [Weiter](echo.md)

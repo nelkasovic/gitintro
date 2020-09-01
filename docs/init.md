@@ -8,5 +8,7 @@ git init
 
 Alle Änderungen in diesem **Arbeitsverzeichnis** werden verfolgt. Bei jeder Änderung wird eine neue **Version** der geänderten Datei erstellt. Eine Wiederherstellung einer früheren Version ist immer möglich.
 
+## Zu erledigen
+- [ ] Git Repository initialisieren
 
 ### [Startseite](index.md) // [Zurück](git.md) // [Weiter](remote.md)
