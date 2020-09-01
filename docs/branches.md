@@ -1,13 +1,13 @@
 # Branches
 
-Branches werden benutzt, um verschiedene Funktionen isoliert voneinander zu entwickeln. Der master-Branch ist der "Standard"-Branch, wenn du ein neues Repository erstellst. Du solltest aber für die Entwicklung andere Branches verwenden und diese dann in den Master-Branch zusammenführen (mergen).
+Branches werden benutzt, um verschiedene Funktionen **isoliert voneinander** zu entwickeln. Der master-Branch ist der der **vorgeschlagene Standard-Branch**, wenn du ein neues Repository erstellst. Das kannst du auch ändern. Für die Entwicklung solltest du Branches verwenden und diese dann in den Master-Branch zusammenführen (mergen).
 
 ![Git-Workflow](./assets/images/git_branching.png)
 
-Neuen Branch mit dem Namen "feature-x" **erstellen** und auschecken kannst du mit:
+Neuen Branch mit dem Namen "feature_x" **erstellen** und auschecken kannst du mit:
 
 ```
-git checkout -b feature-x
+git checkout -b feature_x
 ```
 
 Zum master-Branch zurück **wechseln** kannst du mit:
